@@ -5,7 +5,7 @@ date:   2024-10-05 13:54:18 +0200
 categories: organizations 
 ---
 
-Like much of Europe, July in Norway means 60% of the office is on vacation. I prefer to work during this period, not only for the focus but because it means an opportunity to experience a change in the organization; there are different people, a different office culture, different support needs and different focuses. It's the same organization, just in a slightly altered parallel universe; and it happens almost overnight.
+Like much of Europe, Norway during July means 60% of the office is on vacation. I prefer to work during this period -- not only for the focus time, but because it means experiencing a interesting change in the organization; there are different people, a different office culture, different support needs and different focuses. It's the same organization, just in a slightly altered parallel universe; and it happens almost overnight.
 
 This year, the contrast between these two slightly different worlds gave me an opportunity to reflect on organizational noise. Noise is something we all experience. Meetings, priorities, interruptions, changes in process, etc. In a growing company, noise is natural and expected (and sometimes exciting). But what is it? Where does it come from? Is it always a bad? When is it bad? How much of it is bad? In particular, **how much of it self-inflicted**?
 
