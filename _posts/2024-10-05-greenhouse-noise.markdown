@@ -10,7 +10,7 @@ Like much of Europe, July in Norway means 60% of the office is on vacation. I pr
 This year, the contrast between these two slightly different worlds gave me an opportunity to reflect on organizational noise. Noise is something we all experience. Meetings, priorities, interruptions, changes in process, etc. In a growing company, noise is natural and expected (and sometimes exciting). But what is it? Where does it come from? Is it always a bad? When is it bad? How much of it is bad? In particular, **how much of it self-inflicted**?
 
 <div align="center" style="text-align: center; margin-bottom: 10px;">
-   <img src="/assets/flagellants.jpg" width="350px" style="padding:10px;" alt="A SaaS company hard at work."/>
+   <img src="/blog/assets/flagellants.jpg" width="350px" style="padding:10px;" alt="A SaaS company hard at work."/>
    <div style="color: #4D4D4F; font-size: 0.7em;"> 15th Century <s>flagellants</s> knowledge workers</div>
 </div>
 
@@ -27,12 +27,12 @@ It makes one wonder: if `fewer people = less work = less noise`, and yet the hou
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px">
 
 <div style="text-align: center; max-width: 100%; height: auto;">
-   <img src="/assets/low_noise2.jpg" width="300px" style="padding:10px;" alt="A SaaS company hard at work."/>
+   <img src="/blog/assets/low_noise2.jpg" width="300px" style="padding:10px;" alt="A SaaS company hard at work."/>
    <div style="color: #4D4D4F; font-size: 0.7em;"> Value creation with low Greenhouse Effect</div>
 </div>
 
 <div style="text-align: center; mmax-width: 100%; height: auto;">
-   <img src="/assets/high_noise2.jpg" width="300px" style="padding:10px;" alt="A SaaS company hard at work."/>
+   <img src="/blog/assets/high_noise2.jpg" width="300px" style="padding:10px;" alt="A SaaS company hard at work."/>
    <div style="color: #4D4D4F; font-size: 0.7em;"> Value creation with high Greenhouse Effect</div>
 </div>
 
