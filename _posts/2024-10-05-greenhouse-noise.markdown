@@ -39,6 +39,6 @@ It makes one wonder: if `fewer people = less work = less noise`, and yet the hou
 </div>
 
 
-Earlier in this post I contrasted noise vs efficiency -- it can be easy to see "high noise" as "inefficient", but I think that's wrong. By analogy, consider soldiers in the field; a team of special forces might efficiently adapt to a chaotic battlefield, but those fresh out of bootcamp might not. In fact, their inability to efficiently respond might _introduce_ additional chaos. This is how I think of the greenhouse effect -- it's the additional noise which arises **as a consequence of** the greenhouse effect which creates inefficiencies.
+Earlier in this post I contrasted noise vs efficiency -- it can be easy to see "high noise" as "inefficient", but I think that's wrong. By analogy, a team of special forces might efficiently adapt to a chaotic battlefield; those fresh out of bootcamp might not. In fact, their inability to efficiently respond might _introduce_ additional chaos. This is how I think of the greenhouse effect -- it's not noise itself which creates inefficiency, but the _the additional noise_ which arises **as a consequence of** the greenhouse effect.
 
 In Value's struggle to reach the customer, how many things does it bump into along the way?
