@@ -5,7 +5,7 @@ date:   2024-10-05 13:54:18 +0200
 categories: organizations 
 ---
 
-Like much of Europe, Norway during July means 60% of the office is on vacation. I prefer to work during this period -- not only for the focus time, but because it means experiencing a interesting change in the organization; there are different people, a different office culture, different needs and different focuses. It's the same organization, just in a slightly altered parallel universe; and it happens almost overnight.
+Like much of Europe, Norway during July means 60% of the office is on vacation. I prefer to work during this period -- not only for the focus time, but because it means experiencing an interesting change in the organization; there are different people, a different office culture, different needs and different focuses. It's the same organization, just in a slightly altered parallel universe; and it happens almost overnight.
 
 This year, the contrast between these two slightly different worlds gave me an opportunity to reflect on organizational noise. Noise is something we all experience. Meetings, priorities, interruptions, changes in process, etc. In a growing company, noise is natural and expected (and sometimes exciting). But what is it? Where does it come from? Is it always a bad? When is it bad? How much of it is bad? Of particular interest: **how much of it self-inflicted**?
 
@@ -36,6 +36,8 @@ It makes one wonder: if `fewer people = less work = less noise`, and yet the hou
 
 </div>
 
-Earlier in this post I contrasted noise vs efficiency -- it can be easy to see "high noise" as "inefficient", but I think that's wrong. By analogy, a team of special forces might efficiently adapt to a chaotic battlefield; those fresh out of bootcamp might not, and their inability to do so might _introduce_ additional chaos. This is how I think of the greenhouse effect -- it's not necessarily noise itself which creates inefficiency, but the _the additional noise_ which arises **as a consequence of** the greenhouse effect which contributes. In the struggle of Value to reach the customer, how many things does it bump into along the way?
+Earlier in this post I contrasted noise vs efficiency -- it can be easy to see "high noise" as "inefficient", but I think that's wrong. By analogy, a team of special forces might efficiently adapt to a chaotic battlefield; those fresh out of bootcamp might not, and their inability to do so might _introduce_ additional chaos. This is how I think of the greenhouse effect -- it's not necessarily noise itself which creates inefficiency, but the _the additional noise_ which arises **as a consequence of** the greenhouse effect which contributes. 
+
+In the struggle of Value to reach the customer, how many things does it bump into along the way?
 
 In Part 2 I will share some thoughts on behaviours which I find are greenhouse-contributing.
