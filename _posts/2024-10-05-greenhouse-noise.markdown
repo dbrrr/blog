@@ -10,7 +10,7 @@ Like much of Europe, Norway during July means 60% of the office is on vacation. 
 This year, the contrast between these two slightly different worlds gave me an opportunity to reflect on organizational noise. Noise is something we all experience. Meetings, priorities, interruptions, changes in process, etc. In a growing company, noise is natural and expected (and sometimes exciting). But what is it? Where does it come from? Is it always a bad? When is it bad? How much of it is bad? Of particular interest: **how much of it self-inflicted**?
 
 <div align="center" style="text-align: center; margin-bottom: 10px;">
-   <img src="/blog/assets/flagellants.jpg" width="350px" style="padding:10px;" alt="A SaaS company hard at work."/>
+   <img src="/assets/flagellants.jpg" width="350px" style="padding:10px;" alt="A SaaS company hard at work."/>
    <div style="color: #4D4D4F; font-size: 0.7em;"> 15th Century <s>flagellants</s> knowledge workers</div>
 </div>
 
@@ -25,12 +25,12 @@ It makes one wonder: if `fewer people = less work = less noise`, and yet the hou
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px">
 
 <div style="text-align: center; max-width: 100%; height: auto;">
-   <img src="/blog/assets/low_noise2.jpg" width="300px" style="padding:10px;" alt="A SaaS company hard at work."/>
+   <img src="/assets/low_noise2.jpg" width="300px" style="padding:10px;" alt="A SaaS company hard at work."/>
    <div style="color: #4D4D4F; font-size: 0.7em;"> Value creation with low Greenhouse Effect</div>
 </div>
 
 <div style="text-align: center; mmax-width: 100%; height: auto;">
-   <img src="/blog/assets/high_noise2.jpg" width="300px" style="padding:10px;" alt="A SaaS company hard at work."/>
+   <img src="/assets/high_noise2.jpg" width="300px" style="padding:10px;" alt="A SaaS company hard at work."/>
    <div style="color: #4D4D4F; font-size: 0.7em;"> Value creation with high Greenhouse Effect</div>
 </div>
 
@@ -39,5 +39,3 @@ It makes one wonder: if `fewer people = less work = less noise`, and yet the hou
 Earlier in this post I contrasted noise vs efficiency -- it can be easy to see "high noise" as "inefficient", but I think that's wrong. By analogy, a team of special forces might efficiently adapt to a chaotic battlefield; those fresh out of bootcamp might not, and their inability to do so might _introduce_ additional chaos. This is how I think of the greenhouse effect -- it's not necessarily noise itself which creates inefficiency, but the _the additional noise_ which arises **as a consequence of** the greenhouse effect which contributes. 
 
 In the struggle of Value to reach the customer, how many things does it bump into along the way?
-
-In Part 2 I will share some thoughts on behaviours which I find are greenhouse-contributing.
