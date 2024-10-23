@@ -40,4 +40,4 @@ Earlier in this post I contrasted noise vs efficiency -- it can be easy to see "
 
 In the struggle of Value to reach the customer, how many things does it bump into along the way?
 
-Read [part 2]("https://www.dbr.sh/organizations/2024/10/23/ships-darkness.html").
+Read <a href="https://www.dbr.sh/organizations/2024/10/23/ships-darkness.html">part 2</a>.

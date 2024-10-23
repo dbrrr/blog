@@ -5,11 +5,11 @@ date:   2024-10-23 13:54:18 +0200
 categories: organizations 
 ---
 
-Read [part 1]("https://www.dbr.sh/organizations/2024/10/05/greenhouse-noise.html") first.
+Read <a href="https://www.dbr.sh/organizations/2024/10/05/greenhouse-noise.html">part 1</a> first.
 
 When reflecting on greenhouse noise, I've begun thinking about daily work in naval terms. I'm sure LinkedIn would love the analogy. A team is a boat. Its members are the sailors. The organization is a fleet. 
 
-But what I find interesting about the analogy is that _navigation_ is a central topic in sailing, not only for an individual team/ship but for the cohesion of the fleet. Will the ships collide? Are they going in the same direction? Are they executing maneuvers in in coordination? 
+But what I find interesting about the analogy is that _navigation_ is a central topic in sailing, not only for an individual team/ship but for the cohesion of the fleet. Will the ships collide? Are they going in the same direction? Are they executing maneuvers in coordination? 
 
 Before GPS, naval navigation used various instruments in a process called "dead reckoning". Wikipedia gives the following definition:
 
