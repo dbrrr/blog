@@ -5,7 +5,7 @@ date:   2024-10-23 13:54:18 +0200
 categories: organizations 
 ---
 
-Read [part 1]("/organizations/2024/10/05/greenhouse-noise.html") here.
+Read [part 1]("https://www.dbr.sh/organizations/2024/10/05/greenhouse-noise.html") first.
 
 When reflecting on greenhouse noise, I've begun thinking about daily work in naval terms. I'm sure LinkedIn would love the analogy. A team is a boat. Its members are the sailors. The organization is a fleet. 
 
