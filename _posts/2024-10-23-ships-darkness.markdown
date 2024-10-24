@@ -35,7 +35,7 @@ How does this relate to noise? Well, I think noise which comes as *a result of* 
 
 I recently had a situation which I described to coworker that it was as if I was seeing a rowboat come out of the darkness to deliver some information. But -- the mere existance of a rowboat in the open ocean suggested the presence of a larger ship (i.e. "H.M.S Stakeholder") nearby, which I couldn't see but knew was there. Which ship was it? Are they a part of the fleet? Do they know where I'm going? Do I know where they're going? Should I go talk to that ship? Why did they send a rowboat? _Did_ they send a rowboat? Did the rowboat go off on its own mission?
 
-I think this idea captures some of the factors which I believe contribute to noise:
+I think this idea captures some of the factors which I believe contribute to greenhouse noise:
 
   - The <a href="https://en.wikipedia.org/wiki/Fog_of_war" target="_blank">fog of war</a> shown in the image above arises, I think, from knowledge silos in the organization. This fog of war gets in the way of clear communication. Without clear communication, assumptions start being made and misunderstandings occur. 
   
