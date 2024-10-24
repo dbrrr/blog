@@ -26,7 +26,7 @@ The notorious problem with dead reckoning is _compounding error_ -- accuracy is 
 
 Unfortunately, organizational alignment isn't as well-defined a problem as positioning on the globe, so we may never get our version of a GPS. Even with excellent and responsive metrics and fast feedback cycles, you'll never know your exact "position" -- you can only reduce the range of error and reduce the cost of mistakes. Furthermore, by analogy, positioning is an *operational* problem for each individual ship/team. But an organization is a fleet -- good positional accuracy within each team is a necessary but not sufficient condition for alignment. **Even if the ships know exactly where they are, they still need to know their bearings** (i.e. where they're going). They also need the bearings of _the other ships_ in order to coordinate.
 
-How does this relate to noise? Well, I think noise which comes as *a result of* organizational friction can be compared to difficulty in finding your position and/or bearings *as a result of* moving together with a fleet. 
+How does this relate to noise? Well, I think noise which comes as *a result of* organizational friction can be compared to difficulty in finding your position and/or bearings *as a result of* moving together with a fleet. The sea is a violent environment: you need to deal with storms, rocks, currents, etc. These are all sources of noise. But greenhouse noise is the noise which the fleet imposes on itself, simply by trying to sail together.
 
 <div align="center" style="text-align: center; margin-bottom: 10px;">
    <img src="/assets/sailing_in_the_dark.webp" width="350px" style="padding:10px;" alt="This message has been brought to you by AI"/>
