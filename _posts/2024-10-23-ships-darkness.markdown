@@ -37,7 +37,7 @@ I recently had a situation which I described to coworker that it was as if I was
 
 I think this idea captures some of the factors which I believe contribute to noise:
 
-  - The <a href="https://en.wikipedia.org/wiki/Fog_of_war" target="_blank">fog of war</a> shown in the image above arises, I think, from knowledge silos in the organization. This fog of war gets in the way of clear communication. Without clear communication, assumptions start being made and miscommunications occur. 
+  - The <a href="https://en.wikipedia.org/wiki/Fog_of_war" target="_blank">fog of war</a> shown in the image above arises, I think, from knowledge silos in the organization. This fog of war gets in the way of clear communication. Without clear communication, assumptions start being made and misunderstandings occur. More rowboats are sent out for clarification.
   
   - This kind of fog-of-war / knowledge silo situation fosters inefficient alignment. Without the ability to see what's happening with the other ships/teams, small rowboats float between them in the darkness, crowdsourcing operational visibility and introducing a kind of "telephone" situation.
 
