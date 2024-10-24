@@ -30,17 +30,17 @@ How does this relate to noise? Well, I think noise which comes as *a result of* 
 
 <div align="center" style="text-align: center; margin-bottom: 10px;">
    <img src="/assets/sailing_in_the_dark.webp" width="350px" style="padding:10px;" alt="This message has been brought to you by AI"/>
-   <div style="color: #4D4D4F; font-size: 0.7em;"> Rowboat-driven development</div>
+   <div style="color: #4D4D4F; font-size: 0.7em;">Rowboats in the darkness</div>
 </div>
 
-I recently had a discussion with a coworker where I used the analogy of seeing a rowboat come out of the darkness to deliver some information. But -- the mere existance of a rowboat in the open ocean suggested the presence of a larger ship nearby. Which ship? Are they a part of the fleet? Do they know where I'm going? Do I know where they're going? Should I go talk to that ship? Why did they send a rowboat?
+I recently had a situation which I described to coworker that it was as if I was seeing a rowboat come out of the darkness to deliver some information. But -- the mere existance of a rowboat in the open ocean suggested the presence of a larger ship (i.e. "H.M.S Stakeholder") nearby, which I couldn't see but knew was there. Which ship was it? Are they a part of the fleet? Do they know where I'm going? Do I know where they're going? Should I go talk to that ship? Why did they send a rowboat? _Did_ they send a rowboat? Did the rowboat go off on its own mission?
 
 I think this idea captures some of the factors which I believe contribute to noise:
 
-  - Knowledge silos create <a href="https://en.wikipedia.org/wiki/Fog_of_war" target="_blank">fog of war</a>. Fog of war gets in the way of transparent communication. Assumptions are made. Miscommunications occur. On a clear, sunny day, multiple ships can coordinate in unison. 
+  - The <a href="https://en.wikipedia.org/wiki/Fog_of_war" target="_blank">fog of war</a> shown in the image above arises, I think, from knowledge silos in the organization. This fog of war gets in the way of clear communication. Without clear communication, assumptions start being made and miscommunications occur. 
   
-  - Fog of war fosters inefficient alignment. Small rowboats float between teams, crowdsourcing operational visibility. We're ignoring the existence of radios, here 😉.
+  - This kind of fog-of-war / knowledge silo situation fosters inefficient alignment. Without the ability to see what's happening with the other ships/teams, small rowboats float between them in the darkness, crowdsourcing operational visibility and introducing a kind of "telephone" situation.
 
-  - Misalignment creates uncertainty. Ships get in the way of each other. To avoid collisions, they move more cautiously. Sails are reefed and the crew await new orders.
+  - This misalignment creates uncertainty. Ships/teams/stakeholders get in the way of each other. To avoid collisions, they move more cautiously. Sails are reefed and the crews await new orders out of fear of sailing too quickly in the darkness. 
 
-Coming back to navigation, I think how successfully you can re-calibrate your team/ship's position compounds _all of this_ since the fleet can't decide on a new course without a good understanding of where it is. In the worst case you're still in the realm of dead-reckoning (slow, inefficient, high-risk, with compounding "drift"), and in the absolute worst case you're dead-reckoning as a fleet using disparate navigational instruments scattered between various ships and reaching consensus using row-boats. In such an environment, communication becomes focused more on where the fleet _is_ instead of where it's going. The fleet itself becomes an obstacle to navigation. And when those ships leave for vacation, you realize it's open water and how much time you spend dodging rowboats 🚣.
+Coming back to navigation, I think how successfully you can re-calibrate your team/ship's position compounds _all of this_ since the fleet can't decide on a new course without a good understanding of where it is. In the worst case you're still in the realm of dead-reckoning (slow, inefficient, high-risk, with compounding "drift"), and in the absolute worst case you're dead-reckoning as a fleet using disparate navigational instruments scattered between various ships and reaching consensus using row-boats. In such an environment, communication becomes focused on figuring out where the fleet _is_ instead of where it's _going_. People get worried that heading North will hit the rocks, and heading South will hit the coastline. The fleet itself becomes an obstacle to navigation. And when those ships leave for vacation, you realize it's open water and all the rowboats have disappeared 🚣.
